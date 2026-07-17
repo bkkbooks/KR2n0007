@@ -23,11 +23,11 @@ assets:
   - {seq: 3, filename: KR2n0007_003-WYG.yaml, hash: 'sha256:609d78a00c85039a03291f545cf229b0de1d20c51a8d274b4dfba3f54e37a1e2'}
   - {seq: 4, filename: KR2n0007_004-WYG.yaml, hash: 'sha256:c58755bbfa1e0d16fedfa5e8b77e777be25afa8675e10f2ffe15913f02a773d0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0007_000-WYG.markers.yaml, hash: 'sha256:354c694508f2f46d95320d1fa91b4e3e3f6c030b4d8cef356486e4a1cbe035ca'}
-  - {seq: 1, role: markers, filename: assets/KR2n0007_001-WYG.markers.yaml, hash: 'sha256:b08e15bfc90d91d6b8ca4ff8f73896934f2f7b0b975accee96870d6a3103a846'}
-  - {seq: 2, role: markers, filename: assets/KR2n0007_002-WYG.markers.yaml, hash: 'sha256:aa682eabdef51be8732a0d3da5146e935099b43184946a50239f7d3280ce7381'}
-  - {seq: 3, role: markers, filename: assets/KR2n0007_003-WYG.markers.yaml, hash: 'sha256:d21f5dfcebb60a4ab215948e2f39cbfe631bedf11f465dc901b05e9944e8ef3c'}
-  - {seq: 4, role: markers, filename: assets/KR2n0007_004-WYG.markers.yaml, hash: 'sha256:7b74a8dcbe8018f79c9e3c980fcd44d2b6cc5b913512f253efc4297a2e6f778a'}
+  - {seq: 0, role: markers, filename: assets/KR2n0007_000-WYG.markers.yaml, hash: 'sha256:c48a6d4b395835a51532fc284ef59f5f41c4fb299894f929f52972effaa72865'}
+  - {seq: 1, role: markers, filename: assets/KR2n0007_001-WYG.markers.yaml, hash: 'sha256:d4b60c6ae081e016d1e14ea7c82a338a432dfbddc6a26e4bce8cd96d16d3059f'}
+  - {seq: 2, role: markers, filename: assets/KR2n0007_002-WYG.markers.yaml, hash: 'sha256:2355fd7bd218280e19f5abb5b84e790741ebbac58c30fc6fe02a3ca99a0bd5ef'}
+  - {seq: 3, role: markers, filename: assets/KR2n0007_003-WYG.markers.yaml, hash: 'sha256:57f217b283af3d035afbd01860b08f6a1b7ecb6c2581ff076a2f45c0cd8830ba'}
+  - {seq: 4, role: markers, filename: assets/KR2n0007_004-WYG.markers.yaml, hash: 'sha256:4bf2b62bcceafe33db6ec971d806f9cc1b6241f30c53b2e571a34567b0ce7c92'}
 table_of_contents:
 - ref:
     seq: 0
@@ -89,4 +89,4 @@ table_of_contents:
   label: 卷四
   type: section
   level: 1
-hash: sha256:c780bcc11da5831eabaed00e6ff2010be63fb3c15bf06f1e285ad90ec3c50bd1
+hash: sha256:cb8f086ed09470b57a24af3e757b57378b41f978b803049fa5142ea8f633cc69
